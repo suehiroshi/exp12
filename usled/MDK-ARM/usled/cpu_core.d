@@ -1,0 +1,11 @@
+usled\cpu_core.o: uC-CPU\cpu_core.c
+usled\cpu_core.o: .\uC-CPU\cpu_core.h
+usled\cpu_core.o: .\uC-CPU\ARM-Cortex-M3\RealView\cpu.h
+usled\cpu_core.o: .\uC-CPU\cpu_def.h
+usled\cpu_core.o: .\uC-CONFIG\cpu_cfg.h
+usled\cpu_core.o: .\uC-LIB\lib_def.h
+usled\cpu_core.o: .\uC-LIB\lib_mem.h
+usled\cpu_core.o: .\uC-CPU\cpu_core.h
+usled\cpu_core.o: .\uC-CONFIG\lib_cfg.h
+usled\cpu_core.o: .\uC-LIB\lib_str.h
+usled\cpu_core.o: .\uC-LIB\lib_ascii.h
